@@ -29,4 +29,7 @@ TO DO
 -try 90 and 180 deg
 -try using smoothed gyroscope
 
+DATA
+https://drive.google.com/open?id=1-CnYvw9LxnsXTxG0U8K0mSWOK25vPvB1&usp=drive_fs
+
 
